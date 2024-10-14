@@ -2,3 +2,8 @@ streamlit
 pandas
 matplotlib
 xlsxwriter
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
